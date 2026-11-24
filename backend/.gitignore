@@ -1,0 +1,4 @@
+build/
+.env
+emergency_sos_server
+emergency_sos_server.exe
